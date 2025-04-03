@@ -248,7 +248,7 @@ ScreenGui:Destroy()
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet(""))();
+local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/shinichidz/K/refs/heads/main/Ok"))();
 local v15 = v14:CreateWindow({
     Title = "Donki Roblox",
     SubTitle = "Blox Fruit V2",
