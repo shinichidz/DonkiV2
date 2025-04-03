@@ -248,7 +248,7 @@ ScreenGui:Destroy()
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
+local v14 = loadstring(game:HttpGet(""))();
 local v15 = v14:CreateWindow({
     Title = "Donki Roblox",
     SubTitle = "Blox Fruit V2",
